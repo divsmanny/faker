@@ -1,1 +1,1 @@
-# faker
+pip install -r requirements.txt
